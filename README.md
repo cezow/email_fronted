@@ -7,6 +7,7 @@
 3. Go to email_fronted folder and do commnads in a terminal:
 
 ### `npm i react-bootstrap bootstrap`
+### `npm install uuid`
 ### `npm start`
 
 4. Open a browser tab on localhost:3000
